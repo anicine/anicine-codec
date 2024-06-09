@@ -1,0 +1,5 @@
+/anicine-*
+/*.tar.*
+/.env
+test/*
+data/*
