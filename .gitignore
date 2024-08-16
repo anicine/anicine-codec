@@ -1,5 +1,7 @@
-/anicine-*
+/anicine-codec-*
 /*.tar.*
-/.env
+/build/*
+*.env*
 test/*
 data/*
+cert/*
